@@ -12,7 +12,7 @@ This GitHub repository contains the source code for a phishing email detection a
 6. [Contributing](#contributing)
 7. [License](#license)
 
-##Installation
+## Installation
 
 To get started, ensure you have Python 3 installed on your machine. Then, clone the repository and install the required dependencies using the following commands:
 
@@ -21,7 +21,7 @@ git clone https://github.com/iamrakib097/Phishing_Email_Classification.git
 cd phishing-email-detection
 pip install -r requirements.txt
 ```
-##Usage
+## Usage
 
 Run the Streamlit application with the following command:
 
@@ -40,12 +40,12 @@ If you wish to train the model with your own dataset or explore the training pro
     Update the application with the newly trained model.
 ```
 
-##Dataset
+## Dataset
 
 The dataset used for training the model is included in this repository as `Phishing_email.csv`. It contains [provide a brief description of the dataset, e.g., features, labels, etc.].
 If you want to explore or use a different dataset, feel free to replace it with your own or find a suitable one on platforms like [Kaggle](https://www.kaggle.com/datasets).
 
-##Results
+## Results
 
 The voting model achieved the following performance metrics:
 ```markdown
@@ -53,10 +53,10 @@ The voting model achieved the following performance metrics:
     Precision: 98%
 ```
 Feel free to explore the results directory for more detailed information on the model's performance.
-##Contributing
+## Contributing
 
 Contributions to this project are welcome. If you find a bug or have suggestions for improvement, please open an issue or submit a pull request.
-##License
+## License
 
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
 
